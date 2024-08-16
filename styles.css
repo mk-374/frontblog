@@ -1,0 +1,63 @@
+/* .figtree-<uniquifier> {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
+
+body {
+    size: 1440px;
+    background-color: hsl(47, 88%, 63%);
+}
+
+p {
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-weight: 300;
+}
+
+.container {
+    border: solid black 1px;
+    background-color: hsl(0, 0%, 100%);
+    width: 365px;
+    margin: auto;
+    border-radius: 15px;
+    margin-top: 80px;
+    box-shadow: 8px 8px;
+}
+
+.image {
+    border-radius: 30px;
+    padding: 20px;
+    padding-bottom:0px;
+    height: 195px;
+}
+
+h4 {
+    font-family: Calibri, sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    margin: 1%;
+    margin-left: 0;
+}
+
+.blogger {
+    display: inline-flex;
+    vertical-align: top;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+
+
+#tag {
+    background-color: hsl(47, 88%, 63%);
+    padding:5px;
+    width:68px;
+    border-radius: 5px;
+}
+.content {
+    padding-left: 25px;
+    padding-right: 25px;
+}
