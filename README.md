@@ -10,8 +10,8 @@ Blog preview card Frontend Mentor Challenge
     - See hover and focus states for all interactive elements on the page.
   
   - Links
-    - Solution URL: [](https://github.com/mk-374/frontblog)
-    - Live Site URL: [](https://mk-374.github.io/frontblog/)
+    - Solution URL: [Solution](https://github.com/mk-374/frontblog)
+    - Live Site URL: [Live site](https://mk-374.github.io/frontblog/)
    
   - My process
     - Initiated the process on HTML by creating a container, and adding the necessary elements, vefore moving onto images, and css.
